@@ -1,0 +1,29 @@
+header {
+  background-color: #eeeeee;
+  display: block;
+}
+
+body {background-color: #eeeeee;
+  }
+
+hr {
+  background-color: #222831;
+  border-style: none;
+  height: 2px;
+  }
+
+h1, h3 {
+  color: #00adb5;
+  }
+
+h4 {color: #222831}
+
+p {
+  color: #393e46;
+}
+
+.sign {text-align: right;}
+
+.twt,.fb, .in {height: 40px;
+
+}
