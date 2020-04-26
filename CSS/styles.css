@@ -1,0 +1,215 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family:  'Merriweather', serif;
+
+
+}
+
+.top {
+  background-color: #D1F2EB;
+  text-align: left;
+  padding: 20px;
+  padding-left: 40px;
+
+}
+
+
+
+.nav1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #117A65;
+  font-size: 20px;
+  text-decoration: none;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+      }
+    .nav2 {
+      font-family: 'Montserrat', sans-serif;
+      color: #117A65;
+      font-size: 20px;
+      text-decoration: none;
+      position: absolute;
+      right: 200px;
+      top: 50px;
+        }
+        .nav3 {
+          font-family: 'Montserrat', sans-serif;
+          color: #117A65;
+          font-size: 20px;
+          text-decoration: none;
+          position: absolute;
+          right: 100px;
+          top: 50px;
+            }
+
+.header-img {
+  border-radius: 50%;
+  height: 100px;
+  background-color: white;
+
+}
+
+.top-container {
+  background-color: #D1F2EB;
+  position: relative;
+  padding: 20px;
+  padding-bottom: 0;
+
+}
+
+
+
+.contact-me {
+  max-width: 600px;
+  margin: auto;
+  padding: 100px;
+}
+
+.btn {
+  display: block;
+  background-color:  #16A085;
+  height: 50px;
+  width: 200px;
+  margin: auto;
+  padding: 3px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #0B5345;
+  font-size: 20px;
+  border-radius: 3px;
+  line-height: 50px;
+}
+
+.bottom-container {
+  background-color: #D1F2EB;
+  padding: 30px 0 0 0;
+  text-align: center;
+}
+
+.footer-icon {
+  height: 50px;
+  padding: 5px;
+}
+
+.copyright {
+  font-size: 10px;
+
+}
+
+.profile {
+padding: 100px 10px 100px 10px;
+width: 460px;
+text-align: center;
+margin: auto;
+}
+
+
+
+.aboutme {
+  font-family:  'Merriweather', serif;
+  color: #117A65;
+  font-size: 20px;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #117A65;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #117A65;
+  font-size: 30px;
+}
+
+.focus {
+  font-family: 'Montserrat', sans-serif;
+  color: #117A65;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #117A65;
+  font-size: 20px;
+}
+
+p {
+  font-family: adobe-garamond-pro, sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  color: #5D6D7E;
+}
+
+
+
+.bottom-cloud {
+  position: absolute;
+  top: 135px;
+  height: 120px;
+  left: 15%;
+}
+
+.top-cloud {
+  position: absolute;
+  left:  80%;
+  top: 65px;
+  height: 120px;
+
+}
+
+.mountain {
+  margin-bottom: 0;
+  padding: 0;
+  position: relative;
+  bottom: 0;
+  border-bottom: 0;
+}
+
+.avatar {
+  border-radius: 50%;
+  height: 150px;
+  background-color: #CCD1D1;
+}
+
+.top-avatar {
+  border-radius: 50%;
+  height: 150px;
+  background-color: #CCD1D1;
+}
+
+.design {
+  height: 150px;
+  position: absolute;
+  right:  0;
+}
+
+.develop {
+  height: 150px;
+  position: absolute;
+  left: 0;
+}
+
+.skill-row1 {
+  position: relative;
+  width: 460px;
+  margin: auto;
+  padding: 20px;
+  padding-right: 200px;
+  text-align: left;
+}
+
+.skill-row2 {
+  position: relative;
+  width: 460px;
+  margin: auto;
+  padding: 20px;
+  padding-left: 200px;
+  text-align: left;
+}
